@@ -14,5 +14,14 @@ The FQN extraction process is the work of [Subramanian et al](http://dl.acm.org/
 
 ## Installation
 
+1. Install the [TaperMonkey Chrome Extension](https://chrome.google.com/webstore/detail/tampermonkey/dhdgffkkebhmkfjojejmpbldmpobfkfo)
+
+2. Insert a new userscript into TaperMonkey and copy and paste in the [script](androidDocsAugment.js).
+
 ## Usage
 
+1. With TaperMonkey enabled, navigate to any official Android Documentation, here is an (example)[http://developer.android.com/reference/android/database/sqlite/SQLiteQueryBuilder.html].
+
+## Contributors
+David Xu, Adriaan Labuschagne (adriaanlabusc).
+Special thanks to Siddharth Subramanian (siddhukrs) et al. for development of Baker.
