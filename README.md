@@ -20,8 +20,9 @@ The FQN extraction process is the work of [Subramanian et al](http://dl.acm.org/
 
 ## Usage
 
-1. With TaperMonkey enabled, navigate to any official Android Documentation, here is an (example)[http://developer.android.com/reference/android/database/sqlite/SQLiteQueryBuilder.html].
+1. With TaperMonkey enabled, navigate to any official Android Documentation, here is an [example](http://developer.android.com/reference/android/database/sqlite/SQLiteQueryBuilder.html).
 
 ## Contributors
-David Xu, Adriaan Labuschagne (adriaanlabusc).
+David Xu (dxuprog) and Adriaan Labuschagne (adriaanlabusc).
+
 Special thanks to Siddharth Subramanian (siddhukrs) et al. for development of Baker.
